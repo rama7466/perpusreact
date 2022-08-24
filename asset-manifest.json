@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/perpusreact/static/css/main.2da9efd4.css",
+    "main.js": "/perpusreact/static/js/main.2c30aea2.js",
+    "static/js/787.7ebdfcd6.chunk.js": "/perpusreact/static/js/787.7ebdfcd6.chunk.js",
+    "static/media/photo1.jpg": "/perpusreact/static/media/photo1.8fa85403ba5ba85c3228.jpg",
+    "static/media/background.jpg": "/perpusreact/static/media/background.a708e10eae7a14128a47.jpg",
+    "static/media/photo3.jpg": "/perpusreact/static/media/photo3.8b75482e156f56591920.jpg",
+    "static/media/novel1.jpg": "/perpusreact/static/media/novel1.9e7781e3715226f897bc.jpg",
+    "static/media/novel4.jpg": "/perpusreact/static/media/novel4.61acfb5740a4cb6688ae.jpg",
+    "static/media/novel2.webp": "/perpusreact/static/media/novel2.51dc1fc2f417ccb7b707.webp",
+    "static/media/novel5.jpg": "/perpusreact/static/media/novel5.b8b9aa70082236953510.jpg",
+    "static/media/novel3.jpg": "/perpusreact/static/media/novel3.1c3e14949031b7614439.jpg",
+    "index.html": "/perpusreact/index.html",
+    "main.2da9efd4.css.map": "/perpusreact/static/css/main.2da9efd4.css.map",
+    "main.2c30aea2.js.map": "/perpusreact/static/js/main.2c30aea2.js.map",
+    "787.7ebdfcd6.chunk.js.map": "/perpusreact/static/js/787.7ebdfcd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2da9efd4.css",
+    "static/js/main.2c30aea2.js"
+  ]
+}
