@@ -1,0 +1,44 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/images/background.jpg");
+    background-size: cover;
+}
+.textnav {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.textmid {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    font-family: 'Courier New', Courier, monospace;
+}
+.trending {
+        height: auto;
+        background: url("../assets/images/photo1.jpg");
+        background-size: cover;
+}
+.gengre {
+    height: auto;
+    background: url("../assets/images/photo3.jpg");
+    background-size: cover;
+}
+
+.pimage { 
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+}
+.imagepost{
+    height: 500px;
+}
+.texttren {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: aqua;
+}
